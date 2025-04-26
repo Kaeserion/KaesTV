@@ -1,3 +1,5 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="AE.br
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/Xmltv/epg-guide/master/epg.xml"  # Link válido de EPG
 #EXTINF:-1 tvg-id="AE.br" tvg-name="4K  4K A&E 4K" tvg-logo="http://the-img.xyz/images/logos/A&E-Network-Logo.png" group-title="⭐ CANAIS 4K", 4K  4K A&E 4K
 http://redlnk.life:80/ek99buVIP/543495364/4120312
